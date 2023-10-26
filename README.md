@@ -6,6 +6,7 @@ Use dart 3.1.0 version --
 # bmi_calculator
 
 A new Flutter project.
+FOR ANDROID WEB AND IOS 
 
 ## Getting Started
 
