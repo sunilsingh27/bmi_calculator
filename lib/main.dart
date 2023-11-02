@@ -1,3 +1,4 @@
+import 'package:bmi_calculator/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue.shade600),
       ),
-      home: MyHomePage(),
+      home: SplashScreen(),
     );
   }
 }
